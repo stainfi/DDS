@@ -1,0 +1,88 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Quartus\project\DDS\USER\simulation\qsim
+vADDER32
+IZm_M6ba_IK@5RAPW3N`SZ1
+Vlbh3;@hcFdW3Z_c<d19dW3
+Z1 dD:\Quartus\project\DDS\USER\simulation\qsim
+w1734522351
+8D:/Quartus/project/DDS/LIB/ADDER32.v
+FD:/Quartus/project/DDS/LIB/ADDER32.v
+L0 39
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+D:/Quartus/project/DDS/LIB -O0
+n@a@d@d@e@r32
+!i10b 1
+!s100 iSBLMK4m5nYIYTkS^94hK3
+!s85 0
+!s108 1734555085.310000
+!s107 D:/Quartus/project/DDS/LIB/ADDER32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus/project/DDS/LIB|D:/Quartus/project/DDS/LIB/ADDER32.v|
+!s101 -O0
+vDFF32
+I[7=`?joB:VGhbL::HPQ?[1
+V2EKU9U>iPLe0nGJ<XAb?20
+R1
+w1734521422
+8D:/Quartus/project/DDS/LIB/DFF32.v
+FD:/Quartus/project/DDS/LIB/DFF32.v
+L0 1
+R2
+r1
+31
+R3
+n@d@f@f32
+R4
+!i10b 1
+!s100 SjbeFjK;nJVRBKT@dK;^e0
+!s85 0
+!s108 1734555085.258000
+!s107 D:/Quartus/project/DDS/LIB/DFF32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus/project/DDS/LIB|D:/Quartus/project/DDS/LIB/DFF32.v|
+!s101 -O0
+vDIV10
+!i10b 1
+!s100 hWDaz@R;O25[oLFl?icm_3
+I9Uo6?mQ@]@z<MBJzZ6G<]3
+VB83_LHB<=]`BJl7?:zY3=2
+R1
+w1734524863
+8D:/Quartus/project/DDS/LIB/DIV10.v
+FD:/Quartus/project/DDS/LIB/DIV10.v
+L0 39
+R2
+r1
+!s85 0
+31
+!s108 1734555085.558000
+!s107 D:/Quartus/project/DDS/LIB/DIV10.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus/project/DDS/LIB|D:/Quartus/project/DDS/LIB/DIV10.v|
+!s101 -O0
+R3
+R4
+n@d@i@v10
+vsin_rom
+I1zIW<Gh6Y`UCz3h:b?QS61
+VQ3Po=FnTmlBaH2M^hYd_]3
+R1
+w1734463333
+8D:/Quartus/project/DDS/ROM/sin_rom.v
+FD:/Quartus/project/DDS/ROM/sin_rom.v
+L0 39
+R2
+r1
+31
+R3
+!i10b 1
+!s100 7[SCj0N5V;=kPUR_8=f;^2
+!s85 0
+!s108 1734555085.359000
+!s107 D:/Quartus/project/DDS/ROM/sin_rom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus/project/DDS/ROM|D:/Quartus/project/DDS/ROM/sin_rom.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+D:/Quartus/project/DDS/ROM -O0

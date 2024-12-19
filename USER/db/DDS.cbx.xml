@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="DDS">
+		<CBX_INST_ENTRY INSTANCE_NAME="|DDS|add_off:inst6|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_umm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DDS|ADDER32:inst1|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_trj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DDS|DIV10:inst2|lpm_divide:LPM_DIVIDE_component" CBX_FILE_NAME="lpm_divide_gst.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DDS|add_off:inst6|lpm_divide:Div1" CBX_FILE_NAME="lpm_divide_umm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DDS|sin_rom:inst5|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_loa1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

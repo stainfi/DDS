@@ -1,0 +1,57 @@
+# Reading D:/Quartus/modelsim_ase/tcl/vsim/pref.tcl 
+# do DDS_run_msim_gate_verilog.do 
+# if {[file exists gate_work]} {
+# 	vdel -lib gate_work -all
+# }
+# vlib gate_work
+# vmap work gate_work
+# Copying D:\Quartus\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied D:\Quartus\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+. {DDS.vo}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module DDS
+# 
+# Top level modules:
+# 	DDS
+# 
+# vlog -vlog01compat -work work +incdir+D:/Quartus/project/DDS/USER/simulation/qsim {D:/Quartus/project/DDS/USER/simulation/qsim/DDS_vlg_tst.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module DDS_vlg_tst
+# 
+# Top level modules:
+# 	DDS_vlg_tst
+# 
+# vsim -t 1ps -L altera_mf_ver -L altera_ver -L lpm_ver -L sgate_ver -L cycloneiv_hssi_ver -L cycloneiv_pcie_hip_ver -L cycloneiv_ver -L gate_work -L work -voptargs="+acc"  DDS_vlg_tst
+# vsim -L altera_mf_ver -L altera_ver -L lpm_ver -L sgate_ver -L cycloneiv_hssi_ver -L cycloneiv_pcie_hip_ver -L cycloneiv_ver -L gate_work -L work -voptargs=\"+acc\" -t 1ps DDS_vlg_tst 
+# Loading work.DDS_vlg_tst
+# Loading work.DDS
+# Loading cycloneiv_ver.cycloneiv_io_obuf
+# Loading cycloneiv_ver.cycloneiv_io_ibuf
+# Loading cycloneiv_ver.cycloneiv_clkctrl
+# Loading cycloneiv_ver.cycloneiv_mux41
+# Loading cycloneiv_ver.cycloneiv_ena_reg
+# Loading cycloneiv_ver.cycloneiv_lcell_comb
+# Loading altera_ver.dffeas
+# Loading cycloneiv_ver.cycloneiv_ram_block
+# Loading cycloneiv_ver.cycloneiv_ram_register
+# Loading cycloneiv_ver.cycloneiv_ram_pulse_generator
+# Loading altera_ver.PRIM_GDFF_LOW
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# Break key hit 
+# Simulation stop requested.
+# Simulation Breakpoint: Simulation stop requested.
+# MACRO ./DDS_run_msim_gate_verilog.do PAUSED at line 17
+run -all
+# Break key hit 
+# Simulation stop requested.
+# Simulation Breakpoint: Simulation stop requested.
+# MACRO ./DDS_run_msim_gate_verilog.do PAUSED at line 17

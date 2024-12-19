@@ -1,0 +1,47 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Quartus\project\DDS\USER\simulation\qsim
+vDDS
+IQTZnib_nX7zc6=<F5khmN1
+V3CgY38D2Z`FlN7k^89CzO0
+Z1 dD:\Quartus\project\DDS\USER\simulation\qsim
+w1734557009
+Z2 8DDS.vo
+Z3 FDDS.vo
+L0 31
+Z4 OV;L;10.1d;51
+r1
+31
+Z5 o-vlog01compat -work work -O0
+Z6 n@d@d@s
+!i10b 1
+!s100 44;1hVVBfoHMd:8n`m_V22
+!s85 0
+!s108 1734557040.158000
+Z7 !s107 DDS.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|DDS.vo|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+. -O0
+vDDS_vlg_tst
+!i10b 1
+!s100 UEQ:jOHKbC7OzQH91lGYP1
+IH;FWh1>;YG^B5C4eV0C_02
+VPUS2L3BhjSAz[RV_HZNbD1
+R1
+w1734554510
+8D:/Quartus/project/DDS/USER/simulation/qsim/DDS_vlg_tst.v
+FD:/Quartus/project/DDS/USER/simulation/qsim/DDS_vlg_tst.v
+L0 28
+R4
+r1
+!s85 0
+31
+!s108 1734557040.256000
+!s107 D:/Quartus/project/DDS/USER/simulation/qsim/DDS_vlg_tst.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus/project/DDS/USER/simulation/qsim|D:/Quartus/project/DDS/USER/simulation/qsim/DDS_vlg_tst.v|
+!s101 -O0
+R5
+!s92 -vlog01compat -work work +incdir+D:/Quartus/project/DDS/USER/simulation/qsim -O0
+n@d@d@s_vlg_tst

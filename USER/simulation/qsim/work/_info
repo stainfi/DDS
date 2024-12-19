@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Quartus\project\DDS\USER\simulation\qsim
+vDDS
+Z1 !s100 feom0JSdg:Gi=j8fFL0IO3
+Z2 IkD_=n__?W?niK9ToA7jmd0
+Z3 VE`36G3[S:3<7a5:H7T<h[1
+Z4 dD:\Quartus\project\DDS\USER\simulation\qsim
+Z5 w1734467072
+Z6 8DDS.vo
+Z7 FDDS.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|DDS.vo|
+Z10 o-work work -O0
+Z11 n@d@d@s
+!i10b 1
+!s85 0
+Z12 !s108 1734467072.679000
+Z13 !s107 DDS.vo|
+!s101 -O0
+vDDS_vlg_check_tst
+!i10b 1
+Z14 !s100 eHD]e][36SPCILN>Fa89>1
+Z15 ICPAiAFIl@2<8ITfW52emP1
+Z16 VoHl18=mok^V7<c:c^Voom1
+R4
+Z17 w1734467071
+Z18 8DDS.vwf.vt
+Z19 FDDS.vwf.vt
+L0 59
+R8
+r1
+!s85 0
+31
+Z20 !s108 1734467072.726000
+Z21 !s107 DDS.vwf.vt|
+Z22 !s90 -work|work|DDS.vwf.vt|
+!s101 -O0
+R10
+Z23 n@d@d@s_vlg_check_tst
+vDDS_vlg_sample_tst
+!i10b 1
+Z24 !s100 cY?Y4jBLk;A4lT7RY6mU]1
+Z25 ICh[I3K;oIN>f7]4Cmc2I30
+Z26 V9_H5`8Kz^ZFNf_e^A=4ol0
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@d@d@s_vlg_sample_tst
+vDDS_vlg_vec_tst
+!i10b 1
+Z28 !s100 1]z^hFKzM^gcA4F8VAL]E3
+Z29 IcV=UczBP^N:0D?9;4lBo71
+Z30 Vi4=LCFZU=?UiI9:^@6ikT3
+R4
+R17
+R18
+R19
+Z31 L0 320
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@d@d@s_vlg_vec_tst

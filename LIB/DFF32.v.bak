@@ -1,0 +1,3 @@
+module DFF32 (input[31:0] data,input clock,output reg[31:0] q);
+always @(posedge clock) q <=data;
+endmodule 
